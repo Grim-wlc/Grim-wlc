@@ -1,13 +1,29 @@
-<h1 align="center">Hi 👋, I'm Grim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I’m Grim 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grim-wlc" alt="grim-wlc" /></a> </p>
+I am passionate about cybersecurity, ethical hacking, and solving complex challenges.  
+I focus on **pentesting**, **pwn**, and **reverse engineering**, constantly sharpening my skills through **CTFs** and hands-on platforms like **TryHackMe** and **HackTheBox**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🔹 What I Do
+- Participate in Capture The Flag (CTF) competitions.  
+- Explore binaries and perform reverse engineering challenges.  
+- Identify vulnerabilities and learn how to exploit and secure systems.  
+- Share write-ups and solutions from challenges I solve.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔹 Skills
+- Pentesting & Vulnerability Assessment  
+- Binary Exploitation (Pwn)  
+- Reverse Engineering  
+- Web Security & Exploitation  
+- Platforms: TryHackMe, HackTheBox
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grim-wlc&show_icons=true&locale=en&layout=compact" alt="grim-wlc" /></p>
+## 🔹 My Goals
+- Continuously improve my hacking and problem-solving skills.  
+- Contribute to the cybersecurity community through write-ups and learning resources.  
+- Tackle increasingly challenging CTFs and real-world pentesting scenarios.
+
+## 🔹 Connect with Me
+- [TryHackMe](https://tryhackme.com/p/Grimlys)  
+- [HackTheBox](https://app.hackthebox.com/users/2256245)  
+- GitHub for write-ups and projects!  
+
+“Curious. Persistent. Always learning.”
