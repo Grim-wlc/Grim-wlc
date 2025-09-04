@@ -1,7 +1,7 @@
 # Hi, I’m Grim 👋
 
 I am passionate about cybersecurity, ethical hacking, and solving complex challenges.  
-I focus on **pentesting**, **pwn**, and **reverse engineering**, constantly sharpening my skills through **CTFs** and hands-on platforms like **TryHackMe** and **HackTheBox**.
+I focus on pentesting especially pwn, and reverse engineering, constantly sharpening my skills through **CTFs** and hands-on platforms like **TryHackMe** and **HackTheBox**.
 
 ## 🔹 What I Do
 - Participate in Capture The Flag (CTF) competitions.  
@@ -22,8 +22,16 @@ I focus on **pentesting**, **pwn**, and **reverse engineering**, constantly shar
 - Tackle increasingly challenging CTFs and real-world pentesting scenarios.
 
 ## 🔹 Connect with Me
-- [TryHackMe](https://tryhackme.com/p/Grimlys)  
-- [HackTheBox](https://app.hackthebox.com/users/2256245)  
-- GitHub for write-ups and projects!  
+<p>
+  <a href="https://tryhackme.com/p/Grimlys" target="_blank">
+    <img src="https://www.tryhackme.com/badges/logo.png" alt="TryHackMe" width="80" height="40"/>
+  </a>
+  <a href="https://app.hackthebox.com/users/2256245" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Hackthebox_logo.png" alt="HackTheBox" width="80" height="40"/>
+  </a>
+  <a href="https://github.com/grim-wlc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 “Curious. Persistent. Always learning.”
