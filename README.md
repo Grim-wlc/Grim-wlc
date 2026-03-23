@@ -1,39 +1,37 @@
+<h1 align="center">👾 Hi, I'm GRIM 👾</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Pixel Artist 🎨</h3>
+
+<p align="center">
+<pre>
 ██████╗ ██╗██████╗ ███╗   ███╗
 ██╔══██╗██║██╔══██╗████╗ ████║
 ██████╔╝██║██████╔╝██╔████╔██║
 ██╔═══╝ ██║██╔══██╗██║╚██╔╝██║
 ██║     ██║██║  ██║██║ ╚═╝ ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+</pre>
+</p>
 
-        👾 Hi, I'm GRIM 👾
-   🧠 Cybersecurity Enthusiast
-     🕶️ Ethical Hacker Mode ON
-        🎨 Pixel Artist
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
+### 🎮 CURRENT QUEST
+- 🌱 Learning **Pentesting**
 
-🌱 CURRENT QUEST:
-> Learning Pentesting...
+### 📝 BLOG
+- 🔗 <a href="https://grim-wlc.netlify.app" target="_blank">grim-wlc.netlify.app</a>
 
-📝 BLOG:
-> grim-wlc.netlify.app
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
+### 🛠️ LOADOUT
+<p>
+🧱 Pixel Art 🎨<br>
+💻 Bash<br>
+🔧 Git<br>
+🐧 Linux<br>
+📡 Postman<br>
+🐍 Python
+</p>
 
-🛠️ LOADOUT:
+---
 
-[ BASH ]   [ GIT ]   [ LINUX ]
-[ POSTMAN ]   [ PYTHON ]
-[ PIXEL ART 🎨 ]
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-💀 STATUS:
-> Exploring systems...
-> Breaking security (ethically 😈)
-> Drawing pixels like a boss 🧱
-> Leveling up skills...
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-🎮 PRESS START TO HACK...
+### 💀 STATUS
