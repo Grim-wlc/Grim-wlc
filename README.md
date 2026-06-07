@@ -19,6 +19,7 @@
 
 ### 📝 BLOG
 - 🔗 <a href="https://grim-wlc.netlify.app" target="_blank">grim-wlc.netlify.app</a>
+- 🔗 <a href="https://grim-art.neocities.org" target="_blank">grim-wlc.netlify.app</a>
 
 ---
 
