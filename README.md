@@ -1,38 +1,23 @@
-<h1 align="center">👾 Hi, I'm GRIM 👾</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Pixel Artist 🎨</h3>
+GRIM
 
-<p align="center">
-<pre>
-██████╗ ██╗██████╗ ███╗   ███╗
-██╔══██╗██║██╔══██╗████╗ ████║
-██████╔╝██║██████╔╝██╔████╔██║
-██╔═══╝ ██║██╔══██╗██║╚██╔╝██║
-██║     ██║██║  ██║██║ ╚═╝ ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-</pre>
-</p>
+"web dev / game dev / pixel art"
 
----
+grim@github:~$ cat about.txt
 
-### 🎮 CURRENT QUEST
-- 🌱 Learning **Pentesting**
+Just a guy who likes building stuff.
 
-### 📝 BLOG
-- 🔗 <a href="https://grim-wlc.netlify.app" target="_blank">grim-wlc.netlify.app</a>
-- 🔗 <a href="https://grim-art.neocities.org" target="_blank">grim-art.neocities.org</a>
+- 💻 Web development
+- 🎮 Game development
+- 🎨 Pixel art
+- 🐧 Linux, Bash & Git
 
----
+stuff i've made
 
-### 🛠️ LOADOUT
+- "grim-wlc.netlify.app" (https://grim-wlc.netlify.app)
+- "grim-art.neocities.org" (https://grim-art.neocities.org)
+
+tools i use
+
 <p>
-🧱 Pixel Art 🎨<br>
-💻 Bash<br>
-🔧 Git<br>
-🐧 Linux<br>
-📡 Postman<br>
-🐍 Python
-</p>
-
----
-
-### 💀 STATUS
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,bash,git,github,unity,godot" />
+</p>grim@github:~$ _
