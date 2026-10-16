@@ -1,23 +1,26 @@
-GRIM
+██████╗ ██████╗ ██╗███╗   ███╗
+██╔════╝ ██╔══██╗██║████╗ ████║
+██║  ███╗██████╔╝██║██╔████╔██║
+██║   ██║██╔══██╗██║██║╚██╔╝██║
+╚██████╔╝██║  ██║██║██║ ╚═╝ ██║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 
-"web dev / game dev / pixel art"
+<h3 align="center">GRIM</h3>
+<p align="center">
+  <code>web development / game development / pixel art</code>
+</p><p align="center">
+  <a href="https://grim-wlc.netlify.app">website</a> •
+  <a href="https://grim-art.neocities.org">art portfolio</a>
+</p>---
 
-grim@github:~$ cat about.txt
+"~/about"
 
-Just a guy who likes building stuff.
+Hey, I'm GRIM. I build websites, mess around with game development and make pixel art. Mostly here to learn, experiment and work on projects that interest me.
 
-- 💻 Web development
-- 🎮 Game development
-- 🎨 Pixel art
-- 🐧 Linux, Bash & Git
-
-stuff i've made
-
-- "grim-wlc.netlify.app" (https://grim-wlc.netlify.app)
-- "grim-art.neocities.org" (https://grim-art.neocities.org)
-
-tools i use
+"~/stack"
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,bash,git,github,unity,godot" />
-</p>grim@github:~$ _
+</p>"~/projects"
+
+Currently working on things, breaking stuff and figuring out how to make it better.
