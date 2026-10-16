@@ -4,13 +4,16 @@ Web Dev · Game Dev · Pixel Art
 
 "Website" (https://grim-wlc.netlify.app) ・ "Art Portfolio" (https://grim-art.neocities.org)
 
+<p align="center">
+  <pre>
  ██████╗ ██████╗ ██╗███╗   ███╗
 ██╔════╝ ██╔══██╗██║████╗ ████║
 ██║  ███╗██████╔╝██║██╔████╔██║
 ██║   ██║██╔══██╗██║██║╚██╔╝██║
 ╚██████╔╝██║  ██║██║██║ ╚═╝ ██║
  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-
+  </pre>
+</p>
 </div>---
 
 "01" — ABOUT
